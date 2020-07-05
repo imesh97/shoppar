@@ -1,0 +1,4 @@
+#010308 - Black
+#14213D - Dark blue
+#FCA311 - gold
+#E0E0E0 - grey/white

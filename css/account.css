@@ -1,0 +1,20 @@
+body {
+    background-image:
+            linear-gradient(0deg, rgba(20, 33, 61, 0.7), rgba(224, 224, 224, 0.7)),
+            url("../img/bg-fashion.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#columns {
+    width: 100%;
+    max-width: 840px;
+    padding: 45px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 50px;
+}
+
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
